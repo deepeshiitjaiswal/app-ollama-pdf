@@ -1,0 +1,30 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Uploads directory
+uploads/
